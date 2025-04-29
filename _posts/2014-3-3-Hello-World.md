@@ -1,10 +1,18 @@
 ---
-layout: post
-title: You're up and running!
+title: Hello and Welcome to Noook Foundation!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+NOOOK Foundation empowers youth to create change through crochet, crafting hope and support for families in need—one stitch at a time.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+---
+Welcome to the new Noook Foundation website!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+NOOOK Foundation is a youth-powered non-profit dedicated to creating change, one stitch at a time.
+
+Through the art of crochet, young hands craft beautiful items that help raise funds for youth and families in need.
+
+Every handmade item is a promise: that love is alive, that communities can rise, and that new beginnings are possible.
+
+We believe that even the smallest hands can shape a brighter world.
+
+Stay tuned for more updates on our blog, and subscribe to our newsletter: The Nookazine to stay abreast of upcoming crochet events near you! (currently only in the Greater Seattle area)
