@@ -2,7 +2,7 @@ backend:
   name: github
   repo: fatefulbonsai7/noook-blog
   branch: main
-
+  client_id: Ov23lihrAbDBIiWoHiqK
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
