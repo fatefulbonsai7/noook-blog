@@ -1,6 +1,5 @@
 ---
 title: Hello and Welcome to Noook Foundation!
-image: /noook-logo_original-noook-square-4c-2.png
 ---
 
 NOOOK Foundation empowers youth to create change through crochet, crafting hope and support for families in need—one stitch at a time.
